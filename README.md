@@ -18,6 +18,7 @@ In my GitHub profile, you'll discover curated lists and essential tools to foste
 ## Martech Stack:
 ![Google Cloud Badge](https://img.shields.io/badge/Google%20Cloud-4285F4?logo=googlecloud&logoColor=fff&style=for-the-badge)
 ![Confluence Badge](https://img.shields.io/badge/Confluence-0052CC?logo=confluence&logoColor=fff&style=for-the-badge)
+![Coda Badge](https://img.shields.io/badge/Coda-F46A54?logo=coda&logoColor=fff&style=for-the-badge)
 ![Notion Badge](https://img.shields.io/badge/Notion-000?logo=notion&logoColor=fff&style=for-the-badge)
 ![Asana Badge](https://img.shields.io/badge/Asana-F06A6A?logo=asana&logoColor=fff&style=for-the-badge)
 ![Jira Badge](https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=fff&style=for-the-badge)
