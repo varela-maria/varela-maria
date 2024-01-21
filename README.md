@@ -11,7 +11,8 @@ My focus is on delivering what they need while crafting a unique customer experi
 I firmly believe in the magic of experimentation, collaboration, and the perfect blend of data-driven insights with creative marketing strategies.
 Let's connect and explore the exciting world of growth together!
 
-In my GitHub profile, you'll discover curated lists and essential tools to foster your growth as a marketing professional, especially as a growth marketer. Dive into the wealth of resources available and explore the indispensable tools for your journey. These resources are carefully selected to empower you in your quest for marketing excellence. Feel free to contribute to my lists. Your knowledge will be highly valuable! 🤓
+In my GitHub profile, you'll discover very soon 🤞 curated lists and essential tools to foster your growth as a marketing professional, especially as a growth marketer. Dive into the wealth of resources available and explore the indispensable tools for your journey. These resources are carefully selected to empower you in your quest for marketing excellence. Feel free to contribute to my lists. Your knowledge will be highly valuable! 🤓 
+
 
 👩‍💻 [Discover my Portfolio](https://varelamaria.webflow.io/) Curious to learn more? Dive into my portfolio to explore my latest work.
 
@@ -36,7 +37,7 @@ In my GitHub profile, you'll discover curated lists and essential tools to foste
 
 ![Fathom Badge](https://img.shields.io/badge/Fathom-9187FF?logo=fathom&logoColor=fff&style=for-the-badge)
 ![Google Analytics Badge](https://img.shields.io/badge/Google%20Analytics-E37400?logo=googleanalytics&logoColor=fff&style=for-the-badge)
-![Google Data Studio Badge](https://img.shields.io/badge/Google%20Data%20Studio-669DF6?logo=googledatastudio&logoColor=fff&style=for-the-badge)
+![Looker Badge](https://img.shields.io/badge/Looker-4285F4?logo=looker&logoColor=fff&style=for-the-badge)
 ![Google Sheets Badge](https://img.shields.io/badge/Google%20Sheets-34A853?logo=googlesheets&logoColor=fff&style=for-the-badge)
 
 ![HubSpot Badge](https://img.shields.io/badge/HubSpot-FF7A59?logo=hubspot&logoColor=fff&style=for-the-badge)
