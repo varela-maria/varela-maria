@@ -11,7 +11,7 @@ My focus is on delivering what they need while crafting a unique customer experi
 I firmly believe in the magic of experimentation, collaboration, and the perfect blend of data-driven insights with creative marketing strategies.
 Let's connect and explore the exciting world of growth together!
 
-In my GitHub profile, you'll discover very soon 🤞 curated lists and essential tools to foster your growth as a marketing professional, especially as a growth marketer. Dive into the wealth of resources available and explore the indispensable tools for your journey. These resources are carefully selected to empower you in your quest for marketing excellence. Feel free to contribute to my lists. Your knowledge will be highly valuable! 🤓 
+In my GitHub profile, you'll discover very soon 🤞 curated lists and essential tools to foster your growth as a marketing professional, especially as a growth marketer. Dive into the wealth of resources available and explore the indispensable tools for your journey. These resources are carefully selected to empower you in your SaaS marketing career. Feel free to contribute to my lists. Your knowledge will be highly valuable! 
 
 
 👩‍💻 [Discover my Portfolio](https://varelamaria.webflow.io/) Curious to learn more? Dive into my portfolio to explore my latest work.
