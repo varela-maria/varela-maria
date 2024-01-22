@@ -16,6 +16,8 @@ In my GitHub profile, you'll discover very soon 🤞 curated lists and essential
 
 ✨ [Discover my Portfolio](https://varelamaria.webflow.io/) Curious to learn more? Dive into my portfolio to explore my latest work.
 
+
+
 ## Martech Stack:
 ![Google Cloud Badge](https://img.shields.io/badge/Google%20Cloud-4285F4?logo=googlecloud&logoColor=fff&style=for-the-badge)
 ![Confluence Badge](https://img.shields.io/badge/Confluence-0052CC?logo=confluence&logoColor=fff&style=for-the-badge)
@@ -58,6 +60,11 @@ In my GitHub profile, you'll discover very soon 🤞 curated lists and essential
 
 👉 Explore all the details about my Martech stack in my [Notion Tech Stack Database](https://bit.ly/mariav-techstack)
 
+<!--- snake -->
+<div align="left">
+  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
+       alt="snake" /></a>
+
 ## Contact me:
 [![Web](https://img.shields.io/badge/Portfolio-varelamaria.com-14a1f0?style=for-the-badge&logo=dev.to&logoColor=white&labelColor=101010)](https://varelamaria.webflow.io)
 
@@ -70,3 +77,12 @@ In my GitHub profile, you'll discover very soon 🤞 curated lists and essential
 [![Substack](https://img.shields.io/badge/substack-varelamaria-ff6718?style=for-the-badge&logo=substack&logoColor=white&labelColor=101010)](https://substack.com/@varelamaria)
 
 [![Discord](https://img.shields.io/badge/Discord-varelamaria-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=101010)](https://discordapp.com/users/1148275563715362897 )
+
+
+
+##### Resources & Inspiration for this README: 
+* [1010nishant](https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg)
+* [Mouredev](https://github.com/mouredev/mouredev)
+* [Shields.io](https://shields.io/)
+
+
